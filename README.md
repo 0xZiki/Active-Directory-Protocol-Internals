@@ -3,6 +3,7 @@
 </p>
 
 <p align="center">
+  <a href="https://doi.org/10.5281/zenodo.23282927"><img src="https://zenodo.org/badge/DOI/10.5281/zenodo.23282927.svg" alt="DOI"></a>
   <img src="https://img.shields.io/badge/License-CC%20BY--NC--SA%204.0-blue.svg" alt="License: CC BY-NC-SA 4.0">
   <img src="https://img.shields.io/badge/Format-ISO%20B5%20Trim-lightgrey.svg" alt="Format: ISO B5 Trim">
   <img src="https://img.shields.io/badge/Standard-NISO%20%2F%20Typst-black.svg" alt="Standard: NISO / Typst">
@@ -110,6 +111,7 @@ If you utilize the concepts, architectural schematics, or KQL heuristics from th
   edition   = {First},
   publisher = {Active Directory Arsenal Research Project},
   url       = {https://github.com/0xZiki/Active-Directory-Protocol-Internals}
+  doi       = {10.5281/zenodo.23282927},
 }
 ```
 
