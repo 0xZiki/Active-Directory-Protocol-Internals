@@ -110,8 +110,8 @@ If you utilize the concepts, architectural schematics, or KQL heuristics from th
   year      = {2026},
   edition   = {First},
   publisher = {Active Directory Arsenal Research Project},
-  url       = {https://github.com/0xZiki/Active-Directory-Protocol-Internals}
-  doi       = {10.5281/zenodo.23282927},
+  url       = {https://github.com/0xZiki/Active-Directory-Protocol-Internals},
+  doi       = {10.5281/zenodo.23282927}
 }
 ```
 
