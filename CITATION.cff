@@ -1,0 +1,23 @@
+cff-version: 1.2.0
+message: "If you reference, utilize, or cite this book in your research or engagements, please cite it as below."
+title: "Active Directory Protocol Internals — Volume 1: Foundations"
+abstract: "A First-Principles Guide to Enterprise Identity, Kerberos Cryptography, and Kernel Authorization."
+authors:
+  - family-names: "Elzeky"
+    given-names: "Ahmed Sophy"
+    alias: "0xZiki"
+    affiliation: "Faculty of Computers and Information, Mansoura University, Egypt"
+    email: "ahmedelzeky2446@gmail.com"
+version: "1.0.0"
+date-released: "2026-10-10"
+license: "CC-BY-NC-SA-4.0"
+keywords:
+  - "Active Directory"
+  - "Kerberos"
+  - "NTLM"
+  - "LDAP"
+  - "Identity Architecture"
+  - "Windows Internals"
+  - "Red Team"
+  - "Offensive Security"
+repository-code: "https://github.com/0xZiki/Active-Directory-Protocol-Internals"
