@@ -21,7 +21,7 @@
 
 Access the definitive compiled manuscript directly from the releases directory. The text has been natively typeset using Typst on Arch Linux to adhere to rigorous academic publishing standards.
 
-[![Download Official PDF Release](https://img.shields.io/badge/Download-Official_PDF_Release_(v1.0.0)-blue?style=for-the-badge&logo=adobeacrobatreader)](releases/Active_Directory_Protocol_Internals_Vol1.pdf)
+[![Download Official PDF Release](https://img.shields.io/badge/Download-Official_PDF_Release_(v1.0.0)-blue?style=for-the-badge&logo=adobeacrobatreader)](https://github.com/0xZiki/Active-Directory-Protocol-Internals/raw/main/Active_Directory_Protocol_Internals_Vol1.pdf)
 
 **Cryptographic Integrity Verification**
 Security operators and researchers must verify the SHA-256 cryptographic hash of the compiled artifact before ingestion. Execute the following Bash snippet to validate the release:
